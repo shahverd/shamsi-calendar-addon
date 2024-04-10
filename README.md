@@ -1,2 +1,3 @@
 # shamsi-for-google-calendar
-Shamsi for Google Calendar is a Google Workspace add-on that fixes recurring events based on Persia/Shamsi calendar
+
+Shamsi for Google Calendar is an invaluable Google Workspace add-on designed to seamlessly integrate the functionality of the Persia/Shamsi calendar with Google Calendar. This service addresses the challenge of managing recurring events by providing users with the capability to accurately align their schedules with the Persian calendar system. By leveraging this add-on, users can effortlessly schedule and organize events according to the Shamsi calendar, ensuring precision and consistency in their planning. With its intuitive interface and robust features, Shamsi for Google Calendar empowers users to efficiently navigate between different calendar systems, enhancing productivity and streamlining their workflow within the Google Workspace environment
